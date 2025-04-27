@@ -23,7 +23,7 @@ UnityLink is a mobile application designed to bridge religious divides through s
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/UnityLink.git
+git clone https://github.com/siddharthsanthosh1/UnityLink.git
 cd UnityLink
 ```
 
