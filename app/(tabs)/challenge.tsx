@@ -807,7 +807,7 @@ const styles = StyleSheet.create({
     marginBottom: 24,
     padding: 16,
     borderRadius: 12,
-    backgroundColor: 'rgba(10, 126, 164, 0.1)',
+    backgroundColor: 'rgba(200, 200, 200, 0.1)',
   },
   characterAvatar: {
     width: 60,
@@ -882,7 +882,7 @@ const styles = StyleSheet.create({
   },
   empathyPoints: {
     fontWeight: 'bold',
-    color: '#0a7ea4',
+    color: '#333333',
   },
   scenarioDescription: {
     marginBottom: 24,
